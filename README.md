@@ -1,5 +1,5 @@
 # ImageClassifier_RockPaperScissor
-using a dataset of rock scissor paper images where we have to classify with the conditions that have been given
+Using a dataset of rock scissor paper images where we have to classify with the conditions that have been given
 
 ![image](https://user-images.githubusercontent.com/75937835/228724547-540ab1b5-1188-4468-855c-c7f56534dd10.png)
 
